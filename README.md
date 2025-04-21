@@ -1,3 +1,6 @@
+Hi, My name is Rushil Kadakia and I am new to Github
+
+
 # Introduction to GitHub
 
 <!-- ![](https://github.com/rushilkadakia/skills-introduction-to-github/actions/workflows/0-start-exercise.yml/badge.svg) -->
